@@ -3,6 +3,7 @@ Some resources and notebooks which I use for ML!
 
 ## My own notebooks
 - [TF_2.0](/TF_2.0) - My TensorFlow learnings! :smirk:
+- [Fast.ai](/Fast.ai) - My Fast.ai learnings from Fastai Course v3
 - [Julia Computing NBs](/Julia_Computing_NB) - My Julia Academy Notebooks
 - [Kaggle DataMaestro2020](/Kaggle-DataMaestro2020) - Notebooks from Kaggle in-class competition Data Maestro 2020
 - [Kaggle Notebooks](/OT_KaggleKernals) - My kaggle notebooks
