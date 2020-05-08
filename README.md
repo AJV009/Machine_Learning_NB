@@ -8,7 +8,7 @@ Some resources and notebooks which I use for ML!
 - [Kaggle DataMaestro2020](/Kaggle-DataMaestro2020) - Notebooks from Kaggle in-class competition Data Maestro 2020
 - [Kaggle Notebooks](/OT_KaggleKernals) - My kaggle notebooks
 - [Points for Data Pre-Processing](/DataPreProcessing) - Some points I noted down for Data Pre-Processing
-- [Kaggle DataQuest2020](/Kaggle-DataQuest2020) - Notebooks from Kaggle in-class competition Data Quest 2020
+- [Kaggle DataQuest2020](/Kaggle-DataQuest2020) - Notebooks from Kaggle in-class competition Data Quest 2020 ([DQ-EP09.ipynb](/Kaggle-DataQuest2020/DQ-EP09.ipynb) is the solution book)
 
 ## RESOURCES
 - [Datasets](/datasets) - Some precleaned datasets from different sources
