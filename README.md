@@ -5,10 +5,12 @@ Some resources and notebooks which I use for ML!
 - [TF_2.0](/TF_2.0) - My TensorFlow learnings! :smirk:
 - [Fast.ai](/Fast.ai) - My Fast.ai learnings from Fastai Course v3
 - [Julia Computing NBs](/Julia_Computing_NB) - My Julia Academy Notebooks
-- [Kaggle DataMaestro2020](/Kaggle-DataMaestro2020) - Notebooks from Kaggle in-class competition Data Maestro 2020
+- [Kaggle DataMaestro2020](/Kaggle-DataMaestro2020) - Kaggle in-class competition Data Maestro 2020 (star-classification)
 - [Kaggle Notebooks](/OT_KaggleKernals) - My kaggle notebooks
 - [Points for Data Pre-Processing](/DataPreProcessing) - Some points I noted down for Data Pre-Processing
-- [Kaggle DataQuest2020](/Kaggle-DataQuest2020) - Notebooks from Kaggle in-class competition Data Quest 2020 ([DQ-EP09.ipynb](/Kaggle-DataQuest2020/DQ-EP09.ipynb) is the solution book)
+- [Kaggle DataQuest2020](/Kaggle-DataQuest2020) - Kaggle in-class competition Data Quest 2020 (multi-varient time series) ([DQ-EP09.ipynb](/Kaggle-DataQuest2020/DQ-EP09.ipynb) is the solution book)
+- [Kaggle DataQuest2020 2.0](/Kaggle-DataQuest2020-2.0) - Notebooks from Kaggle in-class competition Data Quest 2020 (imbalanced data classification)
+- [Others winning NBs](/Others_winning_NBs) - Winning notebooks from kaggle in-class, for studying.
 
 ## RESOURCES
 - [Datasets](/datasets) - Some precleaned datasets from different sources
