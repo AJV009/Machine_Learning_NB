@@ -1,0 +1,72 @@
+--------------------------------------------------
+Abhishek Thakur
+- TensorFlow for NLP
+- PyTorch for CV
+- Scikit-learn (productionizing)
+
+Arthur LLau
+- Basic Laptop + Internet
+- Hardware: MBPro (2019, 16GB, i7) or i7,32GB + 1070Ti or GCP.
+- Language: Python and C++
+- Framework: Keras and PyTorch
+- Augmentation library: albumentations
+- Feature selection library: eli5 and lofo
+- Visualization: Missingno and seaborn
+- Imbalanced data: imblearn
+- Parameter optimization: Optuna and skopt
+
+Mathurin
+- Algorithms: lightgbm, xgboost, catboost
+- Cloud services: Google Colab and Kaggle kernels.
+- Packages: scikit-learn, pandas, numpy
+- Frameworks: Keras, TensorFlow, PyTorch and Fastai
+- AutoML tools: Prevision.io, H2O, TPOT, auto sklearn
+
+Tri Duc Nguyen Tang (AI startup - Palexy)
+- Hardware: 2x1080Ti (regular) or 4x1080Ti (GANs)
+- Software: TF, OpenCV, albumentation, lgbm, scikit-learn
+- Infrastructure and architecture for data generation: SQL, MySQL, Spark, Hadoop, Hive
+- data scientists to clients: statistics, visualisation (matplotlib, seaborn)
+- modeling: sklearn, TensorFlow, PyTorch
+
+Darragh Hanley
+- CLI, Spider IDE
+- AWS, prototypes on MBPro
+- PyTorch
+--------------------------------------------------
+More tools worth trying for FUN 
+(some of them are used in some industries even though not the best)
+- Knime
+- Accord.net
+- Scikit-Learn
+- TensorFlow
+- Weka
+- Pytorch
+- RapidMiner
+- Google Cloud AutoML
+- Jupyter Notebook
+- Apache Mahout (Hadoop based)
+- Azure machine learning studio
+- MLLIB (Spark)
+- Orange3
+- IBM Watson
+--------------------------------------------------
+Projects worth trying when you have enough skills, 
+you will surelly understand the depths of AI! 😂
+- Real time Image Animation - https://github.com/anandpawara/Real_Time_Image_Animation
+- GPT-3: Language Models are Few-Shot Learners - https://github.com/openai/gpt-3
+- DE⫶TR: End-to-End Object Detection with Transformers - https://github.com/facebookresearch/detr
+- Realtime_PyAudio_FFT - https://github.com/tr1pzz/Realtime_PyAudio_FFT
+- TextShot - https://github.com/ianzhao05/textshot
+- ML Visuals - https://github.com/dair-ai/ml-visuals
+--------------------------------------------------
+Some extra random stuff worth looking for FUN!
+Know what? Everything new we see, hear or learn 
+always enhances our brain. cause thats when our brain 
+starts to create new knowledge its like brain gym.
+- Disappearing-People - Person removal from complex backgrounds over time - https://github.com/jasonmayes/Real-Time-Person-Removal
+- Build your first Machine Learning pipeline using scikit-learn! - https://www.analyticsvidhya.com/blog/2020/01/build-your-first-machine-learning-pipeline-using-scikit-learn/
+- GoodReads Data Pipeline - https://github.com/san089/goodreads_etl_pipeline
+- Graph Neural Networks in TF2 - https://github.com/microsoft/tf2-gnn
+- Awesome Software Engineering for Machine Learning - https://github.com/SE-ML/awesome-seml
+--------------------------------------------------
