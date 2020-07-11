@@ -1,0 +1,13 @@
+AI - A general class of algorithms thats are able to 
+approximate complicated, nonlinear processe very, very 
+effectively, which we can use ti automate tasks that were 
+previously limited to humans.
+Ex. talktotransformer.com (A language model capable of generating
+human like paragraphs and textual content)
+The power to perform previously known as human only task.
+-----------
+implement arvix papers
+-----------
+Pytorch is a high-performance library with optimization support 
+for scientific computing in python
+---------
